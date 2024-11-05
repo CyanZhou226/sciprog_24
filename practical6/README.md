@@ -6,7 +6,7 @@
 Before implementing the separate compilation and linking (as instructed
 in Step 6), the program can be compiled and executed as a single file.
 
--   **Compilation:** gcc -o matrix_mult main.c mm.c -lm
+-   **Compilation:** gcc -o matrix_mult matmult.c
 
 -   **Execution:** ./matrix_mult
 
