@@ -23,6 +23,7 @@ Enter the number of Fibonacci terms: 20
 ### Arctangent:
 Please enter a positive real number
 0.01
+
 the difference at x = -0.90 is -0.0257701477
 
 the difference at x = -0.89 is -0.0206709804
