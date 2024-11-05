@@ -6,10 +6,12 @@
 ## Compilation
 
 gcc -o fibonacci fibonacci.c -lm
+
 gcc -o arctanh arctanh.c -lm  
 
 ## Execution
 ./fibonacci
+
 ./arctanh
 
 ## Compilation
